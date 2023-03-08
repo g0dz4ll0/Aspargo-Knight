@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Obstacle
+  - Fall
+  - Fall1
+  - Fall2
+  - Fall3
+  - Enemy
+  - Tomato
+  - Boots
+  - Obstacle2
+  - Explosion
+  - Range
+  - Malagueta
+  - Leek
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 608248445
+    locked: 0
+  - name: Entity
+    uniqueID: 793705491
+    locked: 0
+  - name: Fore
+    uniqueID: 826402841
+    locked: 0
